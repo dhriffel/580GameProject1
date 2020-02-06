@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/riffe/source/repos/580GameProject1/GameProject1/GameProject1/Content/2017-03-17-08-01-12-544x544.png</File>
+    <File>C:/Users/riffe/source/repos/580GameProject1/GameProject1/GameProject1/Content/cow-37806_1280.png</File>
+    <File>C:/Users/riffe/source/repos/580GameProject1/GameProject1/GameProject1/Content/Pixel.png</File>
+    <File>C:/Users/riffe/source/repos/580GameProject1/GameProject1/GameProject1/Content/Viewhole.png</File>
+    <File>C:/Users/riffe/source/repos/580GameProject1/GameProject1/GameProject1/Content/WheatSheaf.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>grass.png</File>
+    <File>cow.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

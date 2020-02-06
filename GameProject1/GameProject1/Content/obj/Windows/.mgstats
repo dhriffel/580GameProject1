@@ -1,0 +1,6 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/riffe/source/repos/GameProject1/GameProject1/Content/2017-03-17-08-01-12-544x544.png","C:/Users/riffe/source/repos/GameProject1/GameProject1/Content/bin/Windows/grass.xnb","TextureProcessor","Texture2DContent",755010,1183829,0.148573
+"C:/Users/riffe/source/repos/GameProject1/GameProject1/Content/cow-37806_1280.png","C:/Users/riffe/source/repos/GameProject1/GameProject1/Content/bin/Windows/cow.xnb","TextureProcessor","Texture2DContent",267781,6435925,0.1725945
+"C:/Users/riffe/source/repos/GameProject1/GameProject1/Content/Pixel.png","C:/Users/riffe/source/repos/GameProject1/GameProject1/Content/bin/Windows/Pixel.xnb","TextureProcessor","Texture2DContent",119,89,0.0079425
+"C:/Users/riffe/source/repos/GameProject1/GameProject1/Content/Viewhole.png","C:/Users/riffe/source/repos/GameProject1/GameProject1/Content/bin/Windows/Viewhole.xnb","TextureProcessor","Texture2DContent",34173,8294485,0.3273057
+"C:/Users/riffe/source/repos/GameProject1/GameProject1/Content/WheatSheaf.png","C:/Users/riffe/source/repos/GameProject1/GameProject1/Content/bin/Windows/WheatSheaf.xnb","TextureProcessor","Texture2DContent",118270,1945685,0.0815688
